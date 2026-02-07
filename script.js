@@ -164,5 +164,5 @@ sleepBtn.addEventListener("click", () => {
 });
 
 // Decrease stats on timer
-setInterval(timerTick, 600);
+setInterval(timerTick, 60);
 
